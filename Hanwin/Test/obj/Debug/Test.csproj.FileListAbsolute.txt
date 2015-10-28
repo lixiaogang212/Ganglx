@@ -1,0 +1,5 @@
+F:\Code\Hanwin\Test\bin\Debug\Test.exe
+F:\Code\Hanwin\Test\bin\Debug\Test.pdb
+F:\Code\Hanwin\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Code\Hanwin\Test\obj\Debug\Test.exe
+F:\Code\Hanwin\Test\obj\Debug\Test.pdb

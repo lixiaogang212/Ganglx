@@ -1,0 +1,12 @@
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\ConsoleNhibernateDemo.exe.config
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\ConsoleNhibernateDemo.exe
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\ConsoleNhibernateDemo.pdb
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\Iesi.Collections.dll
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\log4net.dll
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\NHibernate.dll
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\Iesi.Collections.xml
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\NHibernate.pdb
+F:\Code\Hanwin\ConsoleNhibernateDemo\bin\Debug\NHibernate.xml
+F:\Code\Hanwin\ConsoleNhibernateDemo\obj\Debug\ConsoleNhibernateDemo.exe
+F:\Code\Hanwin\ConsoleNhibernateDemo\obj\Debug\ConsoleNhibernateDemo.pdb
+F:\Code\Hanwin\ConsoleNhibernateDemo\obj\Debug\ConsoleNhibernateDemo.csprojResolveAssemblyReference.cache
